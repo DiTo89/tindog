@@ -143,7 +143,7 @@ position: absolute;
 @media (max-width: 1200px) {
 
   .tittle-image {
-    width: 80%;
+    width: 60%;
   transform: rotate(0);
   position: static;
   }
